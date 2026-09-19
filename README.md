@@ -6,7 +6,7 @@ The project includes data preprocessing, feature engineering, Machine Learning m
 
 ## 🚀 Live Demo
 
-[Click here to try CreditWise](YOUR_STREAMLIT_LINK)
+[Click here to try CreditWise]([YOUR_STREAMLIT_LINK](https://creditwise-loan-approval-cgh8hbqxldfxdiwzkgsmah.streamlit.app/))
 
 ## 📌 Features
 
